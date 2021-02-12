@@ -15,7 +15,7 @@ Jika kita mengacu pada model umum yang digunakan di dunia IT yaitu IPO(input-pro
 
 Kita bisa telaah lebih lanjut kenapa function bisa menjadi representasi dari model IPO ini. Let's take a look for the anatomy of function.
 
-<img src="https://lh3.googleusercontent.com/proxy/NGSfodwXvX610DZ41kYNfPa6iGtME_n8Sb-HCaNBMkggLstGuyR7aokQZqXNA_bPobK9SZ3leJchtBaTlj-lEAYFWFTXDfPHXQFpgQSyDmsf8T0p1N8fBVn6jnMRvk8wJUTWzY2tIyFSiRc"/>
+<img src="https://documents.sessions.edu/eforms/courseware/coursedocuments/javascript_for_designers/javascriptfordesigners_images/img_1l_function-anatomy.png"/>
 
 Dapat dilihat dari gambar di atas bahwa function memiliki beberapa komponen seperti: nama fungsi, parameter, block code statement, dan return value.
 
